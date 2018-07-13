@@ -1,0 +1,6 @@
+File CSS baru :
+1. public/stack/row-custom.css for view/pages/stream.ejs
+2. public/stack/home-custom01.css for view/pages/home.ejs
+3. public/stack/home-custom01.css for view/pages/footer.ejs
+
+* Perubahan css pada custom.css, menghilangkan width di bagian content-srv.
